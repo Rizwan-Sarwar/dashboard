@@ -268,7 +268,7 @@
   width: 95%;
   margin: 35px auto;
   padding: 10px 1%;
-  --grid-min-size: 12rem;
+  --grid-min-size: 14rem;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(var(--grid-min-size), 1fr));
   grid-gap: 1rem;
